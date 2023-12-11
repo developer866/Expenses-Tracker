@@ -1,0 +1,21 @@
+.balance{
+    background:hsl(10, 79%, 65%);
+    color: white;
+    display: Flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding: 1rem;
+    border-radius:0.76rem ;
+}
+.balance-text{
+ margin: 0;
+}
+.my_balance{
+    font-size: 15px;
+}
+.balance_amount{
+    font-size: 25px;
+}

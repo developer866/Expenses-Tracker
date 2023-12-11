@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'DM sans',sans-serif;
+}
+body{
+    background: hsl(27, 66%, 92%);
+}
+.Container {
+    max-width: 500px;
+    width: 90%;
+    margin: 0 auto;
+    background: white;
+    border-radius:0.76rem ;
+}
